@@ -15,6 +15,10 @@ div#training-hero-textbox {
 		font-size: 1.5em; 
 		}
 		div#training-hero{
+<<<<<<< HEAD
+=======
+			background-image: url("/images/training-hero.jpg");
+>>>>>>> df89dd20935c16616231f57f3e22534931cea0b7
 			background-color: gray;
 			background-repeat: no-repeat;
 			height: 200px;
