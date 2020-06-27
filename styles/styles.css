@@ -14,7 +14,7 @@
 /***** Pesonal END *****/
 
 /***** Professional Development *****/
-.card-body {
+.pd-card-body-height {
 	height: 12rem;
 	  }
 	  a {
@@ -52,17 +52,17 @@ box-shadow: 3px 3px 12px 0 rgba(81,81,81,.2);
 div#training-hero-textbox {
 		background: #4776BF;
 		background: rgba(68, 118, 191, 0.6);
-		/* height: 80px;
-			width: 50%; */}
-		p#training-hero-text {color:white;
+		width: 80%;
+}
+p#training-hero-text {color:white;
 		text-transform: uppercase;
 		text-align: center;
 		line-height: 150%;
 		font-size: 1.5em; 
 		}
-		div#training-hero{
+div#training-hero{
 			background-color: gray;
-			background-image: url(/images/training-hero.jpg);
+			background-image: url(/Users/monicagilbert/Desktop/development-files/images/training-hero.jpg);
 background-repeat: no-repeat;
 			height: 200px;
 			background-size:cover;
